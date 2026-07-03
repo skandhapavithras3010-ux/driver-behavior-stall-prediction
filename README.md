@@ -88,7 +88,7 @@ driver-behaviour-stall-prediction/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/driver-behaviour-stall-prediction.git
+git clone https://github.com/skandhapavithras3010-ux/driver-behaviour-stall-prediction.git
 ```
 
 Install dependencies:

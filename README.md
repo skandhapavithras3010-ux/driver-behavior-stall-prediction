@@ -30,6 +30,13 @@ An end-to-end Machine Learning project that predicts vehicle stall risk from syn
 
 ---
 
+## 📷 Sample Output
+
+### SHAP Feature Importance
+
+![SHAP Summary](reports/shap_summary.png)
+---
+
 ## 🛠️ Technologies Used
 
 - Python
@@ -125,3 +132,9 @@ python src/driver_profiling.py
 
 B.Tech Electronics & Communication Engineering  
 Vellore Institute of Technology
+
+---
+
+## 📄 License
+
+This project is intended for educational and portfolio purposes.
